@@ -1,5 +1,6 @@
 <html>
 <head>
+<!-- Bunch of favicon links for older browsers being dumb -->
 <link rel = "stylesheet" href = "styles.css">
 <link rel = "SHORTCUT ICON" href = "favicon.ico" />
 <link rel = "icon" href = "favicon.ico" type = "image/ico" />
@@ -8,7 +9,7 @@
 </head>
 
 <body style = "background-color:#161616">
-
+<script src = "readme_loader.js"></script>
 <div class = "bright">
 <h1>Harrand</h1>
 <hr>
@@ -18,11 +19,13 @@
 
 <h2>Projects</h2>
 <h3 style = "font-size: 25px;text-align: center;"><a href = "https://github.com/Harrand/Topaz" style = "color: #bbbb00">Topaz</a></h3>
-<p>TODO: PHP load Topaz readme (maybe truncate if its too long) and echo here</p>
+<p id = "topaz">
+<script>loadReadme("Topaz");</script>
+</p>
 <h3 style = "font-size: 25px;text-align: center"><a href = "https://github.com/Harrand/Asteroids" style = "color: #bb22bb">Asteroids</a></h3>
-<p>TODO: PHP load Asteroids readme and echo here</p>
+<p>TODO: JS load Asteroids readme and echo here</p>
 <h3 style = "font-size: 25px;text-align: center"><a href = "https://github.com/Harrand/MDL" style = "color: #bb2222">MDL</h3>
-<p>TODO: PHP load MDL readme and echo here</p>
+<p>TODO: JS load MDL readme and echo here</p>
 
 </div>
 </body>
