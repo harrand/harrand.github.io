@@ -1,0 +1,21 @@
+*
+{
+	font-family: Garamond;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+	text-align: center;
+	font-style: italic;
+}
+
+h3
+{
+	font-style: normal;
+}
+
+div.bright *
+{
+	text-decoration: none;
+	color: #e0e0e0
+}
