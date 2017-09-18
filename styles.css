@@ -1,6 +1,13 @@
 :root
 {
+	--bright_text_colour: #e0e0e0;
+	--dark_background_colour: #161616;
 	font-family: Garamond;
+}
+
+body
+{
+	background-color: var(--dark_background_colour);
 }
 
 .left_text
@@ -40,5 +47,5 @@ h3
 div.bright *
 {
 	text-decoration: none;
-	color: #e0e0e0
+	color: var(--bright_text_colour);
 }

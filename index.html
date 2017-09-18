@@ -5,10 +5,12 @@
 <link rel = "SHORTCUT ICON" href = "favicon.ico" />
 <link rel = "icon" href = "favicon.ico" type = "image/ico" />
 <link rel = "shortcut icon" type = "image/x-icon" href = "favicon.ico">
-<title>Harrand</title>
+<title>Harrand - Home</title>
+<script src = "https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src = "scripts.js"></script>
 </head>
 
-<body style = "background-color:#161616">
+<body>
 <div class = "bright">
 <h1>Harrand</h1>
 <hr>
@@ -16,18 +18,18 @@
 <h2>About me</h2>
 <p style = "font-size: 20px;">I'm currently an undergraduate at the University of Nottingham studying Computer Science, starting in 2016. I spend most of my free-time programming and working on large projects. As a programmer, I prioritise performance and despise verbosity. As an individual, I strongly enjoy political debate, especially among those who I disagree with.<br><br> My pleasure comes from building a high-quality product whilst remaining minimalistic. My ultimate goal is to work freelance as an occupation whilst developing my own projects in my free-time; I love to be busy. I would like to gain more experience in scripting languages as a companion to my normally heavy-duty C++ programs, such as Lua, AngelScript or perhaps something closer to true logic, such as a dialect of Lisp.</p>
 <hr>
-<img src = "topaz_images/splash.png" style = "display: block;margin: auto;" onload = "this.width /= 2;">
+<img src = "images/splash.png" style = "display: block;margin: auto;" onload = "this.width /= 2;">
 <h2>Projects</h2>
 <hr>
 <h3 style = "font-size: 25px;text-align: center;"><a href = "https://github.com/Harrand/Topaz" style = "color: #bbbb00">Topaz</a></h3>
 <p class = "left_text">Topaz is a multimedia engine written in C++. Its features include but are not limited to: Heavy-duty 3D rendering, lightweight 2D (gui) rendering and a small sound system. It has a key advantage over other engines; its extreme independence.<br><br>Topaz is 'independent' in the way that once you begin using it, the internal underlying system stays out of your way whilst being easily accessible, allowing you to have maximum control over your project. Topaz also fanatically adheres to the C++ ISO Standard. This means that the source code for Topaz is very portable, being able to run on all modern platforms that the C++ ISO Standard allows.<br><br>The primary design choice for Topaz is minimalism. I designed Topaz to the best of my ability to be the antonym to verbosity. This being said, Topaz is a large project, so is not hugely compact. For example, measures are taken to prevent the use of the preprocessor as much as possible, when it could be used to make the engine compact at the cost of readability. In addition, I have multiple development logs during the very early stages of development of Topaz, in <a href = "https://www.youtube.com/playlist?list=PL6PSLdrGGe8I67_i6mNk8IUmOsP85Vhll" style = "color: #bbbb00 !important;" target="_blank">this youtube playlist.</a></p><br><br>
-<img class = "half" src = "topaz_images/example_1.png">
+<img class = "half" src = "images/Topaz/example_1.png">
 <h3 style = "font-size: 25px;text-align: center"><a href = "https://github.com/Harrand/MDL" style = "color: #bb2222">MDL</a></h3>
 <p class = "right_text">MDL stands for Minimalist Data Language. MDL aims to provide features that technologies such as XML or JSON can provide, whilst remaining minimalistic and avoiding feature bloat as much as possible. To describe MDL very briefly, I would call it a more lightweight alternative to YAML.<br><br>MDL also acts somewhat uniquely when loading a MDL file. The interpreter will not attempt to analyse the file in small chunks like most would. In fact, it slurps the entirety of the data-file at once (Assuming the file is not so large as to necessitate fragmentation of data), and then organises all the raw data into highly-accessible MDL buffers and helper functions upon initialisation.<br><br>This means that MDL does the vast majority of its processing upon initialisation, and creating/deleting/reading tags and sequences becomes almost instantaneous. The major drawback to this feature is that when creating and editing tags, the MDL buffers must be re-parsed if you wish to read changes made previously. However, work is currently being done to alleviate this issue to an extent, applying edits to not only the data-file, but also the MDL buffers associated with that file, such that a re-parse is unnecessary.</p><br><br>
-<img class = "half" src = "mdl_images/splash.png">
+<img class = "half" src = "images/MDL/splash.png">
 <h3 style = "font-size: 25px;text-align: center"><a href = "https://github.com/Harrand/Asteroids" style = "color: #bb22bb">Asteroids</a></h3>
 <p class = "left_text">Asteroids is a very simple game designed to be a more modern adaptation of Atari's popular arcade game of the same name from the 1970s. This incarnation of Asteroids is now 3D, and has an exponential difficulty system. This is different to a normal difficulty system such that at the beginning of a level, gameplay is very slow and easy indeed. Once the end of the current level is approached, the difficulty is dramatically higher than before, despite being on the same level. Higher levels increase the minimum difficulty and maximise the maximum difficulty whilst ensuring that the later stages of early levels aren't unrealistically difficult.<br><br>The graphics, sound system and the program as a whole are deliberately very minimal. Asteroids uses a very early version of Topaz, so modding/forking from it is discouraged. Essentially, this project remains here as a reminder of the past, and my journey as a programmer. It's also a fun way for me to kill half an hour when my internet is down. The image beside this passage shows the horror that is all legacy projects.</p>
-<img class = "half" src = "asteroids_images/example_1.png">
+<img class = "half" src = "images/Asteroids/example_1.png">
 <hr>
 <img src = "images/mail_logo.png" style = "display: block;margin: auto;" onload = "this.width /= 4;">
 <h2>Contact & Links</h2>
