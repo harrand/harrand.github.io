@@ -1,0 +1,50 @@
+:root
+{
+	--bright_text_colour: #e0e0e0;
+	--dark_background_colour: #161616;
+	font-family: Garamond;
+}
+
+body
+{
+	background-color: var(--dark_background_colour);
+	font-color: white;
+}
+
+img
+{
+	border: 1px solid white;
+	height: 100%;
+	display: block;
+    margin: auto;
+}
+
+.left_text
+{
+	display:inline-block;
+	float: left;
+	width: 50%;
+}
+
+.right_text
+{
+	display:inline-block;
+	float: right;
+	width: 50%;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+	text-align: center;
+}
+
+h3
+{
+	font-style: normal;
+}
+
+div.bright *
+{
+	text-decoration: none;
+	color: var(--bright_text_colour);
+}
