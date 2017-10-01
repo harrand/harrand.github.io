@@ -13,10 +13,10 @@ body
 
 img
 {
-	border: 1px solid white;
-	height: 100%;
 	display: block;
     margin: auto;
+	height: 100%;
+	border: 1px solid white;
 }
 
 .left_text
