@@ -1,0 +1,4 @@
+baseURL = 'https://harrand.github.io'
+languageCode = 'en-us'
+title = 'Harry's Website'
+theme = "hugo-profile"
