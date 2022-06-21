@@ -75,3 +75,7 @@ canonifyURLs = true
   # do not include @
   creator = "Harrandev"
   site = "harrand.github.io"
+
+[params.logo]
+  logoText = "Harrand"
+  logoHomeLink = "/"
