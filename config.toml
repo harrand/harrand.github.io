@@ -1,21 +1,21 @@
 baseURL = 'https://harrand.github.io'
 languageCode = 'en-us'
-title = "Harry's Website"
+title = "Harrand"
 theme = "hugo-theme-terminal" 
 paginate = 5
 
 [menu]
 [[menu.main]]
-  identifier = 'topaz'
-  name = 'Topaz Engine'
+  name = 'About'
   pre = "<i class='fa fa-heart'></i>"
-  url = 'https://harrand.github.io/Topaz/'
+  url = '/about/'
   weight = -110
 [[menu.main]]
-  name = 'getting started'
+  identifier = 'projects'
+  name = 'Projects'
   post = "<span class='alert'>New!</span>"
   pre = "<i class='fa fa-road'></i>"
-  url = '/getting-started/'
+  url = '/projects/'
   weight = -100
 
 [params]
@@ -41,14 +41,14 @@ paginate = 5
   # if your resource directory contains an image called `cover.(jpg|png|webp)`,
   # then the file will be used as a cover automatically.
   # With this option you don't have to put the `cover` param in a front-matter.
-  autoCover = true
+  # autoCover = true
 
   # set post to show the last updated
   # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
-  showLastUpdated = false
+  showLastUpdated = true
 
   # set a custom favicon (default is a `themeColor` square)
-  # favicon = "favicon.ico"
+  favicon = "favicon.ico"
 
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
   # updatedDatePrefix = "Updated"
@@ -57,7 +57,7 @@ paginate = 5
   # oneHeadingSize = true # default
 
   # whether to show a page's estimated reading time
-  # readingTime = false # default
+  readingTime = true # default
 
   # whether to show a table of contents
   # can be overridden in a page's front-matter
@@ -73,4 +73,4 @@ paginate = 5
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
   # do not include @
   creator = "Harrandev"
-  site = ""
+  site = "harrand.github.io"
