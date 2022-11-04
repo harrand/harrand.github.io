@@ -7,12 +7,13 @@ draft: false
 {{< image src="/tz.png" alt="Topaz" style="border-radius: 8px; width: 2%; display: inline;" >}}
 Engine, 2015-Present, Language: C++
 
-Topaz is a 3D graphics and windowing library. It supports linux/windows and can be configured to use opengl/vulkan under-the-hood.
+Topaz is a 3D graphics engine. It supports linux/windows and can be configured to use opengl/vulkan under-the-hood.
 
-As of writing, the most recent version is Topaz 3.5. The documentation for the bleeding-edge version can be found [on this very site](/Topaz/).
+As of writing, the most recent version is Topaz 3.5.
 
 [{{< image src="/gh.svg" alt="Github Repository" style="border-radius: 8px; width: 2%; display: inline;" >}}](https://github.com/Harrand/Topaz)
 [{{< image src="/yt.png" alt="YouTube Development Playlist" style="border-radius: 8px; width: 2%; display: inline;" >}}](https://www.youtube.com/playlist?list=PL6PSLdrGGe8I67_i6mNk8IUmOsP85Vhll)
+[{{< image src="/doc.png" alt="Documentation" style="border-radius: 8px; width: 2%; display: inline;" >}}](/Topaz/)
 
 ---
 
