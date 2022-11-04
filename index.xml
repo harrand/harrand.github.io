@@ -1,18 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Harrand</title><link>https://harrand.github.io/</link><description>Recent content on Harrand</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://harrand.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://harrand.github.io/about/</link><pubDate>Tue, 21 Jun 2022 16:02:11 +0100</pubDate><guid>https://harrand.github.io/about/</guid><description>TODO: Info</description><content>&lt;p>TODO: Info&lt;/p></content></item><item><title>Projects</title><link>https://harrand.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://harrand.github.io/projects/</guid><description>Topaz Engine, 2015-Present, Language: C++
-Topaz is a 3D graphics and windowing library. It supports linux/windows and can be configured to use opengl/vulkan under-the-hood.
-As of writing, the most recent version is Topaz 3.5. The documentation for the bleeding-edge version can be found on this very site.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Harrand</title><link>https://harrand.github.io/</link><description>Recent content on Harrand</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://harrand.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://harrand.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://harrand.github.io/about/</guid><description>Harrand is my pseudonym, but I also go by Harry. You can call me whichever you prefer I am a game engine programmer, in and outside of industry. Currently I work on the Cobra engine at Frontier Developments. Outside of work, I work on the Topaz engine by myself. You can find my CV here You&amp;rsquo;ll find my videos and livestreams on my YouTube channel, although note that I have no upload/streaming schedule and the content that I provide is not always programming related.</description><content>&lt;ul>
+&lt;li>Harrand is my pseudonym, but I also go by Harry. You can call me whichever you prefer&lt;/li>
+&lt;li>I am a game engine programmer, in and outside of industry.
+&lt;ul>
+&lt;li>Currently I work on the Cobra engine at Frontier Developments.&lt;/li>
+&lt;li>Outside of work, I work on the Topaz engine by myself.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>You can find my CV &lt;a href="../CV.pdf">here&lt;/a>&lt;/li>
+&lt;li>You&amp;rsquo;ll find my videos and livestreams on &lt;a href="https://www.youtube.com/theharryh666">my YouTube channel&lt;/a>, although note that I have no upload/streaming schedule and the content that I provide is not always programming related.&lt;/li>
+&lt;/ul>
+&lt;!-- raw HTML omitted -->
+&lt;p>&lt;a href="https://github.com/Harrand">
+&lt;img src="https://harrand.github.io/gh.svg" alt="Github Profile" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
+&lt;/a>
+&lt;a href="https://www.youtube.com/theharryh666">
+&lt;img src="https://harrand.github.io/yt.png" alt="YouTube Development Playlist" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
+&lt;/a>&lt;/p></content></item><item><title>Projects</title><link>https://harrand.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://harrand.github.io/projects/</guid><description>Topaz Engine, 2015-Present, Language: C++
+Topaz is a 3D graphics engine. It supports linux/windows and can be configured to use opengl/vulkan under-the-hood.
+As of writing, the most recent version is Topaz 3.5.
 Red Nightmare 2 Topaz Game, 2022-Present, Language: C++
-Red Nightmare 2 is a complete rewrite of the original game, using Topaz 3.5, currently in development.</description><content>&lt;h1 id="topaz">Topaz&lt;/h1>
+Red Nightmare 2 is a complete rewrite of the original game, using Topaz 3.5, currently in development.
+The game is a 2D action roguelite. There will be multiple playable characters, but the player originally controls a sorceress named Akhara.</description><content>&lt;h1 id="topaz">Topaz&lt;/h1>
 &lt;p>
 &lt;img src="https://harrand.github.io/tz.png" alt="Topaz" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
 Engine, 2015-Present, Language: C++&lt;/p>
-&lt;p>Topaz is a 3D graphics and windowing library. It supports linux/windows and can be configured to use opengl/vulkan under-the-hood.&lt;/p>
-&lt;p>As of writing, the most recent version is Topaz 3.5. The documentation for the bleeding-edge version can be found &lt;a href="https://harrand.github.io/Topaz/">on this very site&lt;/a>.&lt;/p>
+&lt;p>Topaz is a 3D graphics engine. It supports linux/windows and can be configured to use opengl/vulkan under-the-hood.&lt;/p>
+&lt;p>As of writing, the most recent version is Topaz 3.5.&lt;/p>
 &lt;p>&lt;a href="https://github.com/Harrand/Topaz">
 &lt;img src="https://harrand.github.io/gh.svg" alt="Github Repository" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
 &lt;/a>
 &lt;a href="https://www.youtube.com/playlist?list=PL6PSLdrGGe8I67_i6mNk8IUmOsP85Vhll">
 &lt;img src="https://harrand.github.io/yt.png" alt="YouTube Development Playlist" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
+&lt;/a>
+&lt;a href="https://harrand.github.io/Topaz/">
+&lt;img src="https://harrand.github.io/doc.png" alt="Documentation" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
 &lt;/a>&lt;/p>
 &lt;hr>
 &lt;h1 id="red-nightmare-2">Red Nightmare 2&lt;/h1>
