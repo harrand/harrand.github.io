@@ -14,10 +14,24 @@ canonifyURLs = true
 [[menu.main]]
   identifier = 'projects'
   name = 'Projects'
-  post = "<span class='alert'>New!</span>"
   pre = "<i class='fa fa-road'></i>"
   url = '/projects/'
   weight = -100
+[[menu.main]]
+  identifier = 'blog'
+  name = 'Blogs'
+  pre = "<i class='fa fa-road'></i>"
+  url = '/blog/'
+  weight = -90
+
+# Blog entries
+[[menu.main]]
+  identifier = 'blog_ego_in_learning_programming'
+  name = 'Ego in learning programming (2022)'
+  pre = "<i class='fa fa-road'></i>"
+  url = '/blog_ego_in_learning_programming/'
+  weight = -90
+
 
 [params]
   # dir name of your main content (default is `content/posts`).
@@ -28,7 +42,7 @@ canonifyURLs = true
   themeColor = "red"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 3
 
   # show selector to switch language
   showLanguageSelector = false
