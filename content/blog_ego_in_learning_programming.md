@@ -3,6 +3,7 @@ title: "Ego in learning programming"
 draft: false
 color: "orange"
 author: "Harrand"
+date: "2022-11-05"
 ---
 
 ## Introduction 
