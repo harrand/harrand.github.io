@@ -58,6 +58,7 @@ Employee: (trying to be reassuring) I understand your frustration, sir. We apolo
 Customer: (irately) I don't want to use a rake, I want paper towels. This is ridiculous. I'm going to take my business elsewhere.
 
 Employee: (apologetically) I'm sorry you feel that way, sir. We apologize for the inconvenience and we hope you'll give us another chance in the future. Please don't hesitate to call us if you have any other questions or "Charmander"-ies.
+
 The irate customer slams the phone down on the receiver and turns to his wife, who is sitting nearby on the couch.
 
 "Can you believe the ridiculous ordeal I just went through?" he exclaims. "This employee at XYZ Store kept making these stupid Pokemon puns and wouldn't take my complaint seriously. It was like talking to a child."
@@ -73,6 +74,7 @@ The irate customer's face contorts in frustration. "Don't you start with the Pok
 His wife tries to suppress her laughter. "I'm sorry, I couldn't resist," she says. "But come on, it's not that bad. It's just a delay in getting some paper towels. We can use something else in the meantime. Maybe we can use a 'Charmander' to dry the dishes?"
 
 The irate customer groans and throws up his hands. "I give up. I'm surrounded by Pokemon puns on all sides. I'm going to go take a walk and clear my head."
+
 The irate customer takes a deep breath and steps outside for a walk, hoping to clear his head. As he crosses the street, he does a double take when he sees something strange on the sidewalk. It looks like... a Charmander?
 
 He rubs his eyes and looks again, convinced that he must be losing his sense of reality. But no, there it is - a small, orange lizard-like Pokemon with a flaming tail. It looks just like the ones he used to collect as a kid.
