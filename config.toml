@@ -31,6 +31,12 @@ canonifyURLs = true
   pre = "<i class='fa fa-road'></i>"
   url = '/blog_ego_in_learning_programming/'
   weight = -90
+[[menu.main]]
+  identifier = 'blog_pokepuns_with_chatgpt'
+  name = 'Poképuns with ChatGPT (2022)'
+  pre = "<i class='fa fa-road'></i>"
+  url = '/blog_pokepuns_with_chatgpt/'
+  weight = -90
 
 
 [params]
