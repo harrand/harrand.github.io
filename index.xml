@@ -110,15 +110,14 @@ What is the best programming language? There is nothing inherently harmful with 
 &lt;li>&lt;a href="../../blog_pokepuns_with_chatgpt">Poképuns with ChatGPT&lt;/a>&lt;/li>
 &lt;/ul></content></item><item><title>Projects</title><link>https://harrand.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://harrand.github.io/projects/</guid><description>Topaz Engine, 2015-Present, Language: C++
 Topaz is a 3D graphics engine. It supports linux/windows and can be configured to use opengl/vulkan under-the-hood.
-As of writing, the most recent version is Topaz 3.5.
-Red Nightmare 2 Topaz Game, 2022-Present, Language: C++
-Red Nightmare 2 is a complete rewrite of the original game, using Topaz 3.5, currently in development.
-The game is a 2D action roguelite. There will be multiple playable characters, but the player originally controls a sorceress named Akhara.</description><content>&lt;h1 id="topaz">Topaz&lt;/h1>
+The next version of Topaz is 4.1.0.
+Red Nightmare Topaz Game, 2018-Present, Language: C++
+Red Nightmare is a high-fantasy roguelike with RPG elements. It initially served as a testbed for new Topaz features, only producing basic prototypes. In 2022 however, I began to develop it as a more serious game project rather than a subsidiary to an engine project.</description><content>&lt;h1 id="topaz">Topaz&lt;/h1>
 &lt;p>
 &lt;img src="https://harrand.github.io/tz.png" alt="Topaz" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
 Engine, 2015-Present, Language: C++&lt;/p>
 &lt;p>Topaz is a 3D graphics engine. It supports linux/windows and can be configured to use opengl/vulkan under-the-hood.&lt;/p>
-&lt;p>As of writing, the most recent version is Topaz 3.5.&lt;/p>
+&lt;p>The next version of Topaz is 4.1.0.&lt;/p>
 &lt;p>&lt;a href="https://github.com/Harrand/Topaz">
 &lt;img src="https://harrand.github.io/gh.svg" alt="Github Repository" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
 &lt;/a>
@@ -129,12 +128,23 @@ Engine, 2015-Present, Language: C++&lt;/p>
 &lt;img src="https://harrand.github.io/doc.png" alt="Documentation" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
 &lt;/a>&lt;/p>
 &lt;hr>
-&lt;h1 id="red-nightmare-2">Red Nightmare 2&lt;/h1>
+&lt;h1 id="red-nightmare">Red Nightmare&lt;/h1>
 &lt;p>
-&lt;img src="https://harrand.github.io/red_nightmare.png" alt="Red Nightmare 2" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
-Topaz Game, 2022-Present, Language: C++&lt;/p>
-&lt;p>Red Nightmare 2 is a complete rewrite of the original game, using Topaz 3.5, currently in development.&lt;/p>
-&lt;p>The game is a 2D action roguelite. There will be multiple playable characters, but the player originally controls a sorceress named Akhara. You must navigate through the story levels, defeating monsters on the way using Akhara&amp;rsquo;s fireballs. Alternatively, you can play procedural levels, which are randomly generated, and last forever until you die.&lt;/p>
+&lt;img src="https://harrand.github.io/red_nightmare.png" alt="Red Nightmare" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
+Topaz Game, 2018-Present, Language: C++&lt;/p>
+&lt;p>Red Nightmare is a high-fantasy roguelike with RPG elements. It initially served as a testbed for new Topaz features, only producing basic prototypes. In 2022 however, I began to develop it as a more serious game project rather than a subsidiary to an engine project.&lt;/p>
+&lt;p>Its older prototypes written against Topaz versions 1.0 (2018) and 3.6.1 (2022). The full version of Red Nightmare is being developed against Topaz 4.1.0.&lt;/p>
+&lt;h2 id="game-design-document">Game Design Document&lt;/h2>
+&lt;p>&amp;lt;embed
+src=&amp;ldquo;&lt;a href="https://github.com/harrand/Red-Nightmare/blob/master/GDD.pdf#toolbar=0&amp;amp;navpanes=0&amp;amp;scrollbar=0%22">https://github.com/harrand/Red-Nightmare/blob/master/GDD.pdf#toolbar=0&amp;amp;navpanes=0&amp;amp;scrollbar=0&amp;quot;&lt;/a>
+type=&amp;ldquo;application/pdf&amp;rdquo;
+frameBorder=&amp;ldquo;0&amp;rdquo;
+scrolling=&amp;ldquo;auto&amp;rdquo;
+height=&amp;ldquo;100%&amp;rdquo;
+width=&amp;ldquo;100%&amp;rdquo;&lt;/p>
+&lt;blockquote>
+&lt;!-- raw HTML omitted -->
+&lt;/blockquote>
 &lt;p>&lt;a href="https://github.com/Harrand/Red-Nightmare">
 &lt;img src="https://harrand.github.io/gh.svg" alt="Github Repository" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
 &lt;/a>
@@ -167,20 +177,6 @@ Library, 2018-2019, Language: C++&lt;/p>
 &lt;p>Amethyst is a cross-platform basic networking library. It is very low-level, dealing only in sockets.&lt;/p>
 &lt;p>&lt;a href="https://github.com/Harrand/Amethyst">
 &lt;img src="https://harrand.github.io/gh.svg" alt="Github Repository" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
-&lt;/a>&lt;/p>
-&lt;hr>
-&lt;h1 id="red-nightmare">Red Nightmare&lt;/h1>
-&lt;p>
-&lt;img src="https://harrand.github.io/red_nightmare.png" alt="Red Nightmare" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
-Topaz Game, 2018, Language: C++&lt;/p>
-&lt;p>Red Nightmare is an old sample game using Topaz 1.0. You play as a sorceress aswell as her magical elemental orb, but you are attacked by ghosts. You also have the power of telekinesis, which you can use to drag ghosts out of your way or into their doom.&lt;/p>
-&lt;p>The orb has different effects depending on its current elemental type. The fiery orb deals massive damage, the frost orb slows nearby ghosts, and the void orb sucks in ghosts and consumes them, growing in size.&lt;/p>
-&lt;p>After killing enough ghosts, a boss battle begins against Nightmare. Nightmare is a malevolent powerful ghost who can only be stopped with the combination of the orb and your telekinesis.&lt;/p>
-&lt;p>&lt;a href="https://github.com/Harrand/Red-Nightmare/tree/Topaz1.0">
-&lt;img src="https://harrand.github.io/gh.svg" alt="Github Repository" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
-&lt;/a>
-&lt;a href="https://youtu.be/Ps6-L03zkuA">
-&lt;img src="https://harrand.github.io/yt.png" alt="YouTube Development Playlist" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
 &lt;/a>&lt;/p>
 &lt;hr>
 &lt;h1 id="maze-darwinism">Maze Darwinism&lt;/h1>
