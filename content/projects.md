@@ -27,14 +27,14 @@ Its older prototypes written against Topaz versions 1.0 (2018) and 3.6.1 (2022).
 
 ## Game Design Document
 
-{{< embed
+<embed
     src="https://github.com/harrand/Red-Nightmare/blob/master/GDD.pdf#toolbar=0&navpanes=0&scrollbar=0"
     type="application/pdf"
     frameBorder="0"
     scrolling="auto"
     height="100%"
     width="100%"
-></embed> }}
+></embed>
 
 [{{< image src="/gh.svg" alt="Github Repository" style="border-radius: 8px; width: 2%; display: inline;" >}}](https://github.com/Harrand/Red-Nightmare)
 [{{< image src="/yt.png" alt="YouTube Development Playlist" style="border-radius: 8px; width: 2%; display: inline;" >}}](https://youtube.com/playlist?list=PL6PSLdrGGe8JU5bsKL4Kohhi7e5aFSzTu)
