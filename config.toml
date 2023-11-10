@@ -17,26 +17,26 @@ canonifyURLs = true
   pre = "<i class='fa fa-road'></i>"
   url = '/projects/'
   weight = -100
-[[menu.main]]
-  identifier = 'blog'
-  name = 'Blogs'
-  pre = "<i class='fa fa-road'></i>"
-  url = '/blog/'
-  weight = -90
+#[[menu.main]]
+#  identifier = 'blog'
+#  name = 'Blogs'
+#  pre = "<i class='fa fa-road'></i>"
+#  url = '/blog/'
+#  weight = -90
 
 # Blog entries
-[[menu.main]]
-  identifier = 'blog_ego_in_learning_programming'
-  name = 'Ego in learning programming (2022)'
-  pre = "<i class='fa fa-road'></i>"
-  url = '/blog_ego_in_learning_programming/'
-  weight = -90
-[[menu.main]]
-  identifier = 'blog_pokepuns_with_chatgpt'
-  name = 'Poképuns with ChatGPT (2022)'
-  pre = "<i class='fa fa-road'></i>"
-  url = '/blog_pokepuns_with_chatgpt/'
-  weight = -90
+#[[menu.main]]
+#  identifier = 'blog_ego_in_learning_programming'
+#  name = 'Ego in learning programming (2022)'
+#  pre = "<i class='fa fa-road'></i>"
+#  url = '/blog_ego_in_learning_programming/'
+#  weight = -90
+#[[menu.main]]
+#  identifier = 'blog_pokepuns_with_chatgpt'
+#  name = 'Poképuns with ChatGPT (2022)'
+#  pre = "<i class='fa fa-road'></i>"
+#  url = '/blog_pokepuns_with_chatgpt/'
+#  weight = -90
 
 
 [params]
