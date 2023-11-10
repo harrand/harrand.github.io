@@ -1,101 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Harrand</title><link>https://harrand.github.io/</link><description>Recent content on Harrand</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://harrand.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Poképuns with ChatGPT</title><link>https://harrand.github.io/blog_pokepuns_with_chatgpt/</link><pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate><guid>https://harrand.github.io/blog_pokepuns_with_chatgpt/</guid><description>Disclaimer: This is not programming related. If you&amp;rsquo;re looking for programming related topics, you probably wanna skip this one, although it is pretty funny.
-Context Recently I&amp;rsquo;ve been playing around with ChatGPT, a chatbot developed by OpenAI. I&amp;rsquo;ve mainly brought up programming related topics, aswell as writing prompts - It can provide very creative responses!
-However, I have to make this post because I started experimenting with humour with ChatGPT. Specifically, puns.</description><content>&lt;p>Disclaimer: This is not programming related. If you&amp;rsquo;re looking for programming related topics, you probably wanna skip this one, although it is pretty funny.&lt;/p>
-&lt;h2 id="context">Context&lt;/h2>
-&lt;p>Recently I&amp;rsquo;ve been playing around with ChatGPT, a chatbot developed by OpenAI. I&amp;rsquo;ve mainly brought up programming related topics, aswell as writing prompts - It can provide very creative responses!&lt;/p>
-&lt;p>However, I have to make this post because I started experimenting with humour with ChatGPT. Specifically, puns.&lt;/p>
-&lt;p>There is a maxmoefoe video from 10 years ago, titled: &lt;a href="https://youtu.be/Oj3xjah_W9Y">Pokémon 7-11 - Prank call - Poképuns&lt;/a>. Here, maxmoefoe continually trolls a 7-11 worker with poképuns. The video is funny, although I cant help but feel bad for the worker.&lt;/p>
-&lt;p>I wanted to recreate a similar dialogue with ChatGPT. By doing that, we get more glorious puns, but without harassing a poor retail worker. I only included my initial prompt to ChatGPT, although the paragraphs replied were put together with prompts from me, so the ideas can&amp;rsquo;t be fully credited to ChatGPT, although the puns can.&lt;/p>
-&lt;h2 id="the-irate-man-and-the-employee">The Irate Man and the Employee&lt;/h2>
-&lt;blockquote>
-&lt;p>Harrand: Can you write a dialogue where an irate man is complaining to a store employee that they did not have any of a certain product in stock. The employee should respond as normal to attempt to resolve the situation, however the employee constantly attempts to make pokemon-puns during the phonecall, causing the customer to become more and more irate.&lt;/p>
-&lt;/blockquote>
-&lt;blockquote>
-&lt;p>ChatGPT: Certainly! Here is a dialogue between an irate customer and a store employee who attempts to make Pokemon-puns during the conversation:&lt;/p>
-&lt;/blockquote>
-&lt;p>Customer: (irately) Hello, I was in your store earlier today and I couldn&amp;rsquo;t find any of the XYZ brand paper towels. Can you tell me why you don&amp;rsquo;t have any in stock?&lt;/p>
-&lt;p>Employee: (cheerfully) Hello sir! Sorry for the inconvenience. Let me check our inventory for you. (pausing) Hmm, it looks like we&amp;rsquo;re all out of XYZ brand paper towels. We must have been caught in a &amp;ldquo;Pikachu-nado&amp;rdquo;!&lt;/p>
-&lt;p>Customer: (irately) This is not a joke, I needed those paper towels for a very important task.&lt;/p>
-&lt;p>Employee: (still cheerfully) I&amp;rsquo;m sorry sir, I didn&amp;rsquo;t mean to &amp;ldquo;Jolteon&amp;rdquo; your nerves. Let me see if I can find another option for you. (pausing) Ah, we do have some ABC brand paper towels in stock. They&amp;rsquo;re not exactly the same as XYZ, but they should get the job done.&lt;/p>
-&lt;p>Customer: (frustrated) I specifically asked for XYZ brand. I don&amp;rsquo;t want any substitutes.&lt;/p>
-&lt;p>Employee: (trying to remain cheerful) I understand your frustration, sir. But sometimes we have to &amp;ldquo;Growlithe&amp;rdquo; up and make do with what we have. ABC brand is a high-quality product, I&amp;rsquo;m sure it will work just as well for you.&lt;/p>
-&lt;p>Customer: (irately) I don&amp;rsquo;t want ABC brand, I want XYZ brand. This is ridiculous. How hard is it to keep a basic household item in stock?&lt;/p>
-&lt;p>Employee: (still trying to be cheerful) I apologize for the inconvenience, sir. We&amp;rsquo;ll do our best to restock XYZ brand as soon as possible. In the meantime, perhaps you can &amp;ldquo;Charmander&amp;rdquo; your expectations and give ABC brand a try?&lt;/p>
-&lt;p>Customer: (fuming) I can&amp;rsquo;t believe you&amp;rsquo;re still making these stupid Pokemon puns. I&amp;rsquo;m done. I&amp;rsquo;ll just go to a different store.&lt;/p>
-&lt;p>Employee: (realizing they have upset the customer) I&amp;rsquo;m sorry sir, I didn&amp;rsquo;t mean to &amp;ldquo;Squirtle&amp;rdquo; your mood. I hope you have a better experience at the other store. Please do not hesitate to call us again if you need any assistance in the future.&lt;/p>
-&lt;p>&lt;em>a few hours pass&amp;hellip;&lt;/em>&lt;/p>
-&lt;p>Employee: (answering the phone) Thank you for calling XYZ Store, this is [Employee] speaking. How may I &amp;ldquo;Chikorita&amp;rdquo; you today?&lt;/p>
-&lt;p>Customer: (irately) Yes, I called earlier today to complain about the lack of XYZ brand paper towels in your store. I was told you would restock, but when I went back today, you still didn&amp;rsquo;t have any. This is unacceptable.&lt;/p>
-&lt;p>Employee: (apologetically) I&amp;rsquo;m sorry for the inconvenience, sir. Let me check our inventory again to see what&amp;rsquo;s &amp;ldquo;Pidgey&amp;rdquo; on. (pausing) Hmm, it looks like our supplier is experiencing a delay in their shipment. We&amp;rsquo;re working on getting more XYZ brand paper towels as soon as possible, but it might be a few more days before we have them in stock.&lt;/p>
-&lt;p>Customer: (frustrated) This is ridiculous. How can you run a store without basic household items like paper towels?&lt;/p>
-&lt;p>Employee: (trying to be reassuring) I understand your frustration, sir. We apologize for the inconvenience and we&amp;rsquo;re doing our best to get more XYZ brand paper towels in stock as soon as possible. In the meantime, perhaps you could try using a &amp;ldquo;Rayquaza&amp;rdquo; to clean up your messes? Or if you&amp;rsquo;re feeling &amp;ldquo;Snorlax&amp;rdquo;-y, you could just take a break and come back later when we have them in stock.&lt;/p>
-&lt;p>Customer: (irately) I don&amp;rsquo;t want to use a rake, I want paper towels. This is ridiculous. I&amp;rsquo;m going to take my business elsewhere.&lt;/p>
-&lt;p>Employee: (apologetically) I&amp;rsquo;m sorry you feel that way, sir. We apologize for the inconvenience and we hope you&amp;rsquo;ll give us another chance in the future. Please don&amp;rsquo;t hesitate to call us if you have any other questions or &amp;ldquo;Charmander&amp;rdquo;-ies.&lt;/p>
-&lt;p>The irate customer slams the phone down on the receiver and turns to his wife, who is sitting nearby on the couch.&lt;/p>
-&lt;p>&amp;ldquo;Can you believe the ridiculous ordeal I just went through?&amp;rdquo; he exclaims. &amp;ldquo;This employee at XYZ Store kept making these stupid Pokemon puns and wouldn&amp;rsquo;t take my complaint seriously. It was like talking to a child.&amp;rdquo;&lt;/p>
-&lt;p>His wife looks equally stunned by the oddness of the situation. &amp;ldquo;That does sound pretty bizarre,&amp;rdquo; she says. &amp;ldquo;I can&amp;rsquo;t believe they were still making Pokemon puns after you were so clearly upset. Did they even apologize for not having the paper towels in stock?&amp;rdquo;&lt;/p>
-&lt;p>The irate customer sighs and runs a hand through his hair. &amp;ldquo;Yes, they apologized, but it was like they were just trying to placate me with these childish jokes. I can&amp;rsquo;t believe I have to deal with this. I&amp;rsquo;m going to report them to their manager and take my business elsewhere.&amp;rdquo;&lt;/p>
-&lt;p>As he rants, his wife starts to chuckle. &amp;ldquo;Well, at least they were trying to make a &amp;lsquo;Pikachu&amp;rsquo; out of a bad situation,&amp;rdquo; she says with a grin.&lt;/p>
-&lt;p>The irate customer&amp;rsquo;s face contorts in frustration. &amp;ldquo;Don&amp;rsquo;t you start with the Pokemon puns too,&amp;rdquo; he says. &amp;ldquo;I swear, this is the worst day ever. I curse the gods for my misfortune.&amp;rdquo;&lt;/p>
-&lt;p>His wife tries to suppress her laughter. &amp;ldquo;I&amp;rsquo;m sorry, I couldn&amp;rsquo;t resist,&amp;rdquo; she says. &amp;ldquo;But come on, it&amp;rsquo;s not that bad. It&amp;rsquo;s just a delay in getting some paper towels. We can use something else in the meantime. Maybe we can use a &amp;lsquo;Charmander&amp;rsquo; to dry the dishes?&amp;rdquo;&lt;/p>
-&lt;p>The irate customer groans and throws up his hands. &amp;ldquo;I give up. I&amp;rsquo;m surrounded by Pokemon puns on all sides. I&amp;rsquo;m going to go take a walk and clear my head.&amp;rdquo;&lt;/p>
-&lt;p>The irate customer takes a deep breath and steps outside for a walk, hoping to clear his head. As he crosses the street, he does a double take when he sees something strange on the sidewalk. It looks like&amp;hellip; a Charmander?&lt;/p>
-&lt;p>He rubs his eyes and looks again, convinced that he must be losing his sense of reality. But no, there it is - a small, orange lizard-like Pokemon with a flaming tail. It looks just like the ones he used to collect as a kid.&lt;/p>
-&lt;p>The irate customer approaches the Charmander tentatively, wondering if he&amp;rsquo;s hallucinating. &amp;ldquo;Excuse me,&amp;rdquo; he says, &amp;ldquo;but&amp;hellip; am I going insane? Is this really happening?&amp;rdquo;&lt;/p>
-&lt;p>The Charmander looks up at him and blinks its big, round eyes. &amp;ldquo;Well, that&amp;rsquo;s a &amp;lsquo;Charizard&amp;rsquo; question,&amp;rdquo; it says in a high-pitched voice. &amp;ldquo;But I&amp;rsquo;m real enough, if that&amp;rsquo;s what you&amp;rsquo;re asking.&amp;rdquo;&lt;/p>
-&lt;p>The irate customer&amp;rsquo;s jaw drops. &amp;ldquo;I&amp;hellip; I can&amp;rsquo;t believe this,&amp;rdquo; he stammers. &amp;ldquo;This is insane. What are you doing here?&amp;rdquo;&lt;/p>
-&lt;p>The Charmander gives a little shrug. &amp;ldquo;Just taking a walk, like you,&amp;rdquo; it says. &amp;ldquo;But I think it&amp;rsquo;s time for me to &amp;lsquo;Charmander&amp;rsquo; off&amp;rdquo;&lt;/p>
-&lt;p>The irate customer replies: &amp;ldquo;It was nice meeting you!&amp;rdquo;&lt;/p>
-&lt;p>Charmander says: &amp;ldquo;Thanks, &amp;lsquo;Mewtwo&amp;rsquo;!&amp;rdquo;&lt;/p>
-&lt;p>With that, the Charmander disappears in a puff of smoke, leaving the irate customer standing on the sidewalk with his mouth open in shock.&lt;/p></content></item><item><title>Ego in learning programming</title><link>https://harrand.github.io/blog_ego_in_learning_programming/</link><pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate><guid>https://harrand.github.io/blog_ego_in_learning_programming/</guid><description>Introduction There are many endless debates between programmers, inside and outside of industry. Examples of these are:
-Tabs vs spaces? Which editor/IDE is the best? Which operating system is best for programming? Which frontend web framework is the best? And my least favourite of them all:
-What is the best programming language? There is nothing inherently harmful with these questions &amp;ndash; for the majority of sensible people, we have projects we need to complete, and the tools which we use to do the job are mostly preference.</description><content>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>There are many endless debates between programmers, inside and outside of industry. Examples of these are:&lt;/p>
-&lt;ul>
-&lt;li>Tabs vs spaces?&lt;/li>
-&lt;li>Which editor/IDE is the best?&lt;/li>
-&lt;li>Which operating system is best for programming?&lt;/li>
-&lt;li>Which frontend web framework is the best?&lt;/li>
-&lt;/ul>
-&lt;p>And my least favourite of them all:&lt;/p>
-&lt;ul>
-&lt;li>What is the best programming language?&lt;/li>
-&lt;/ul>
-&lt;p>There is nothing inherently harmful with these questions &amp;ndash; for the majority of sensible people, we have projects we need to complete, and the tools which we use to do the job are mostly preference. Once in a while of course we come across those who take it much too seriously &amp;ndash; perhaps someone calls someone else a moron because they use Windows as opposed to a fully custom arch installation which they spent 3 weeks customising. If you were to say this wasn&amp;rsquo;t an issue worth a blog post about, I would agree!&lt;/p>
-&lt;p>Another example of this are programming language debates. Mostly a waste of time &amp;ndash; if you fall into this trap you run the risk of spending so much time debating why C++ is the best language of all time, that you don&amp;rsquo;t actually get anything done outside of that thread.&lt;/p>
-&lt;p>While I was learning, I spent alot of my time in learning environments &amp;ndash; whether that be various programming discords lead by youtubers/streamers, or sites such as gamedev.net, coding subreddits or even /g/. As I moved from learning to actually building stuff, I never really left those places. I&amp;rsquo;ve kept my eye on them over the years, still sometimes learning cool new things, often helping others where I can, and seeing what kinds of conversations people have in those places. I have come to realise that the debates and battles I highlighted from before seem to be &lt;strong>increasingly common&lt;/strong> in these spaces, so much so that I am now concerned as to how much this could be preventing learners from, well&amp;hellip; learning.&lt;/p>
-&lt;p>It got even worse when I started dabbling with YouTube streaming. I would visit other small streamers, and while the content was interesting, the chat was a complete cesspool. Piles of people taking turns spamming the chat with vitriolic arguments against each other, because someone at some point brought up that they were learning Rust instead of C++. I felt for the people who were just trying to interact with the streamer and learn, and I also felt for the streamer - it seems like they are doomed to either entirely ignore or moderate their chat from language debates for eternity.&lt;/p>
-&lt;p>I believe these language debates are a symptom of a real issue affecting those who are learning programming - Ego.&lt;/p>
-&lt;h3 id="machismo">Machismo&lt;/h3>
-&lt;p>Machismo (noun) - strong or aggressive masculine pride.&lt;/p>
-&lt;p>Most of us are dudes. It&amp;rsquo;s tempting to go down the controvertial route: Are men more prone to ego problems than women? Is what I&amp;rsquo;m hinting at a &lt;em>male&lt;/em> problem, and it only seems so rife because there&amp;rsquo;s so many of us in this space? I&amp;rsquo;m not in a position to comment on any of this, and if I read a blog post that started yammering on about masculinity when I&amp;rsquo;m meant to be talking about programming, I&amp;rsquo;d probably close the tab and try to prevent the cringe from overwhelming me.&lt;/p>
-&lt;p>To avoid having to worry about any of this while still being able to make my point, I will be writing the rest of this post from a male-centric perspective. Chances are you&amp;rsquo;re a man reading this, so that shouldn&amp;rsquo;t really be a problem.&lt;/p>
-&lt;p>When I was starting my journey to learn programming, I started with some of the basic webdev languages at the time. That&amp;rsquo;s your HTML, CSS, JavaScript etc&amp;hellip; Those were fine and taught me valuable things, but I only chose to start learning these because that&amp;rsquo;s what people told me to do. I wanted to learn C++ because it was a &lt;em>hard&lt;/em> language to learn, because you &lt;em>need&lt;/em> to learn it to write good games, lest your project have poor performance and explode in a bloodied mess!&lt;/p>
-&lt;p>I did want to make games. I did want to truly understand what it was like to work closer to the metal. However, with a bit of regret, I now concede that a big part of it was because it was &lt;em>intimidating&lt;/em>. It was a challenge to be conquered. When asked why I chose to start learning C++ as soon as possible, I told them how eager I was to make games, and how much I wanted to understand how my machine works from a lower-level perspective. That was all true, but I never did tell them that perhaps the biggest reason was because if I learned C++ early, that would be impressive, and set me above others.&lt;/p>
-&lt;p>This all occurred around 2011. I was only thirteen years old around then. How cool would I have looked to say &amp;ldquo;I&amp;rsquo;m 13 and I know c++!&amp;rdquo;. It&amp;rsquo;s now 2022 and I&amp;rsquo;ve yet to properly ship a game in my own time, despite continuing with C++ all this time. I think that&amp;rsquo;s proof enough that I wasn&amp;rsquo;t in this purely to make games.&lt;/p>
-&lt;p>When I see people in these youtube stream chats fighting over which language is the best, I see myself flexing in favour of my own language choice back in minecraft servers. I can only be thankful that those chatlogs will never see the light of day again, lest I remember how much I was truly driven by this new form of intellectual-machismo. When I read messages from people boasting about how easy they found it to learn C++, and how they didn&amp;rsquo;t understand why everyone said it was so hard, I see the same flex that I too was guilty of doing.&lt;/p>
-&lt;p>I wasted alot of my time back then. I think more and more people are making the same mistake, and none of us are doing anything about it. University entirely ignores it, I&amp;rsquo;ve no idea how bootcamps deal with it, and programming communities mostly sit back and wait for these silly debates to get too heated before ultimately dispersing it &amp;ndash; at that point the damage is done.&lt;/p>
-&lt;h2 id="real-programmers-use-vim">Real programmers use vim&lt;/h2>
-&lt;p>Just to be clear - my point in this blog is that I believe that learners are more and more commonly falling into the trap of entering ego-measuring contests under the guise of &amp;ldquo;debates&amp;rdquo; over which programming language is the best, or why vim is the ultimate editor and you&amp;rsquo;re an idiot if you don&amp;rsquo;t already know all of the keybinds off-by-heart while learning how to do fizzbuzz in C.&lt;/p>
-&lt;p>Once a while in these programming discords, someone wise comes down and asks questions which invite the reader to actually think about what they&amp;rsquo;re saying:&lt;/p>
-&lt;ul>
-&lt;li>You said: &amp;ldquo;I respect an osdev more than a webdev.&amp;rdquo; Why?&lt;/li>
-&lt;li>&amp;ldquo;What exactly is wrong with vscode?&amp;rdquo;&lt;/li>
-&lt;li>&amp;ldquo;What else do you think is good about this code snippet, aside from performance?&amp;rdquo;&lt;/li>
-&lt;/ul>
-&lt;p>Sometimes this stifles the silliness in the conversation and things return to normality &amp;ndash; It&amp;rsquo;s absolutely possible to discuss these topics in a productive and useful way, but there comes a point where people buy too much into it, except that with a bit of self-reflection things can come back down to non-heated chatter.&lt;/p>
-&lt;h2 id="what-is-the-solution">What is the solution?&lt;/h2>
-&lt;p>If you&amp;rsquo;re a learner, and you think you might be guilty of this, that&amp;rsquo;s okay. If someone who&amp;rsquo;s been in the industry for years tells me they didn&amp;rsquo;t fall into this trap, I would struggle to believe them. I definitely let things get to my head too much in the earlier stages, and I might continue to sometimes make that mistake. I try to avoid it, but sometimes you have a moment of weakness and just can&amp;rsquo;t help yourself.&lt;/p>
-&lt;p>If you&amp;rsquo;ve read all this and are completely lost and dumbfounded as to how someone can get off on some weird &amp;lsquo;valor&amp;rsquo; that comes with a preference in programming language/OS/framework, fair enough. I would be interested to know from those who have never seen any of this in the wild, and think I might be just going on an inane rant. I come from a engine-dev background, perhaps that is an outlier when it comes to this kind of issue.&lt;/p>
-&lt;p>The next time you see someone talk trash about your favourite programming language, or belittle someone else who made the same choice as you, consider not wasting your time on it. If you&amp;rsquo;re the other way around and look down on those who go into webdev, or don&amp;rsquo;t write code using a charged needle, I urge you to think about how productive you&amp;rsquo;ve actually been, even if you&amp;rsquo;ve been making all the correct decisions all this time.&lt;/p></content></item><item><title>About Me</title><link>https://harrand.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://harrand.github.io/about/</guid><description>Harrand is my pseudonym, but I also go by Harry. You can call me whichever you prefer I am a game engine programmer, in and outside of industry. Currently I work on the Cobra engine at Frontier Developments. Outside of work, I work on the Topaz engine by myself. You can find my CV here You&amp;rsquo;ll find my videos and livestreams on my YouTube channel, although note that I have no upload/streaming schedule and the content that I provide is not always programming related.</description><content>&lt;ul>
-&lt;li>Harrand is my pseudonym, but I also go by Harry. You can call me whichever you prefer&lt;/li>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Harrand</title><link>https://harrand.github.io/</link><description>Recent content on Harrand</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://harrand.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://harrand.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://harrand.github.io/about/</guid><description>Harrand is my pseudonym, but my real name is Harry. I am a game engine programmer, in and outside of industry. Currently I work full-time on the Cobra engine at Frontier Developments. In my free-time, I&amp;rsquo;m working on two projects - my game engine, Topaz, and a 2D game using that engine, Red Nightmare Feel free to look through the Projects section above to see my older work. You can find my CV/resume here.</description><content>&lt;ul>
+&lt;li>Harrand is my pseudonym, but my real name is Harry.&lt;/li>
 &lt;li>I am a game engine programmer, in and outside of industry.
 &lt;ul>
-&lt;li>Currently I work on the Cobra engine at Frontier Developments.&lt;/li>
-&lt;li>Outside of work, I work on the Topaz engine by myself.&lt;/li>
+&lt;li>Currently I work full-time on the &lt;a href="https://www.frontier.co.uk/about/cobra-development-technology-tools">Cobra&lt;/a> engine at Frontier Developments.&lt;/li>
+&lt;li>In my free-time, I&amp;rsquo;m working on two projects - my game engine, &lt;a href="https://github.com/harrand/Topaz">Topaz&lt;/a>, and a 2D game using that engine, &lt;a href="https://github.com/harrand/Red-Nightmare">Red Nightmare&lt;/a>&lt;/li>
+&lt;li>Feel free to look through the Projects section above to see my older work.&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>You can find my CV &lt;a href="../CV.pdf">here&lt;/a>&lt;/li>
+&lt;li>You can find my CV/resume &lt;a href="../CV.pdf">here&lt;/a>.&lt;/li>
 &lt;li>You&amp;rsquo;ll find my videos and livestreams on &lt;a href="https://www.youtube.com/theharryh666">my YouTube channel&lt;/a>, although note that I have no upload/streaming schedule and the content that I provide is not always programming related.&lt;/li>
 &lt;/ul>
 &lt;!-- raw HTML omitted -->
@@ -103,20 +15,26 @@ What is the best programming language? There is nothing inherently harmful with 
 &lt;img src="https://harrand.github.io/gh.svg" alt="Github Profile" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
 &lt;/a>
 &lt;a href="https://www.youtube.com/theharryh666">
-&lt;img src="https://harrand.github.io/yt.png" alt="YouTube Development Playlist" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
-&lt;/a>&lt;/p></content></item><item><title>Blog</title><link>https://harrand.github.io/blog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://harrand.github.io/blog/</guid><description>2022 Ego in learning programming Poképuns with ChatGPT</description><content>&lt;h2 id="2022">2022&lt;/h2>
+&lt;img src="https://harrand.github.io/yt.png" alt="YouTube Channel" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
+&lt;/a>&lt;/p></content></item><item><title>Blog</title><link>https://harrand.github.io/blog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://harrand.github.io/blog/</guid><description>2022 Under construction :&amp;gt;</description><content>&lt;h2 id="2022">2022&lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="../../blog_ego_in_learning_programming">Ego in learning programming&lt;/a>&lt;/li>
-&lt;li>&lt;a href="../../blog_pokepuns_with_chatgpt">Poképuns with ChatGPT&lt;/a>&lt;/li>
+&lt;li>Under construction :&amp;gt;&lt;/li>
 &lt;/ul></content></item><item><title>Projects</title><link>https://harrand.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://harrand.github.io/projects/</guid><description>Topaz Engine, 2015-Present, Language: C++
-Topaz is a 3D graphics engine. It supports linux/windows and can be configured to use opengl/vulkan under-the-hood.
-The next version of Topaz is 4.1.0.
-Red Nightmare Topaz Game, 2018-Present, Language: C++
-Red Nightmare is a high-fantasy roguelike with RPG elements. It initially served as a testbed for new Topaz features, only producing basic prototypes. In 2022 however, I began to develop it as a more serious game project rather than a subsidiary to an engine project.</description><content>&lt;h1 id="topaz">Topaz&lt;/h1>
+Topaz is a 3D game engine, supported on Windows and Linux. Notable features include:
+Rich, low-level graphics API, against either a Vulkan or OpenGL backend - all configured at compile-time. Custom shader-language, called TZSL. A superset of GLSL specialised for Topaz. TZSL shaders compile cleanly down to GLSL (OpenGL), or SPIRV (Vulkan) without any modifications required. Alternatively, a higher-level rendering API is also provided to save you from reinventing the wheel to do common high-level tasks, such as 3d skeletal animation.</description><content>&lt;h1 id="topaz">Topaz&lt;/h1>
 &lt;p>
 &lt;img src="https://harrand.github.io/tz.png" alt="Topaz" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
 Engine, 2015-Present, Language: C++&lt;/p>
-&lt;p>Topaz is a 3D graphics engine. It supports linux/windows and can be configured to use opengl/vulkan under-the-hood.&lt;/p>
+&lt;p>Topaz is a 3D game engine, supported on Windows and Linux. Notable features include:&lt;/p>
+&lt;ul>
+&lt;li>Rich, low-level graphics API, against either a Vulkan or OpenGL backend - all configured at compile-time.&lt;/li>
+&lt;li>Custom shader-language, called TZSL. A superset of GLSL specialised for Topaz. TZSL shaders compile cleanly down to GLSL (OpenGL), or SPIRV (Vulkan) without any modifications required.&lt;/li>
+&lt;li>Alternatively, a higher-level rendering API is also provided to save you from reinventing the wheel to do common high-level tasks, such as 3d skeletal animation.&lt;/li>
+&lt;li>Multi-threaded embedded Lua.&lt;/li>
+&lt;li>Low-latency job system to spread work across multiple threads.&lt;/li>
+&lt;li>GLTF model importing.&lt;/li>
+&lt;li>Ability to embed arbitrary text-files within built executables.&lt;/li>
+&lt;/ul>
 &lt;p>The next version of Topaz is 4.1.0.&lt;/p>
 &lt;p>&lt;a href="https://github.com/Harrand/Topaz">
 &lt;img src="https://harrand.github.io/gh.svg" alt="Github Repository" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
@@ -131,9 +49,11 @@ Engine, 2015-Present, Language: C++&lt;/p>
 &lt;h1 id="red-nightmare">Red Nightmare&lt;/h1>
 &lt;p>
 &lt;img src="https://harrand.github.io/red_nightmare.png" alt="Red Nightmare" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
-Topaz Game, 2018-Present, Language: C++&lt;/p>
+Topaz Game, 2018-Present, Language: C++, Lua&lt;/p>
 &lt;p>Red Nightmare is a high-fantasy roguelike with RPG elements. It initially served as a testbed for new Topaz features, only producing basic prototypes. In 2022 however, I began to develop it as a more serious game project rather than a subsidiary to an engine project.&lt;/p>
-&lt;p>Its older prototypes written against Topaz versions 1.0 (2018) and 3.6.1 (2022). The full version of Red Nightmare is being developed against Topaz 4.1.0. The current game-design document can be found &lt;a href="https://github.com/harrand/Red-Nightmare/blob/master/GDD.pdf">here&lt;/a>.&lt;/p>
+&lt;p>Red Nightmare&amp;rsquo;s game logic is heavily driven by embedded Lua, rarely calling directly into Topaz aside from the heavy-duty features such as rendering.&lt;/p>
+&lt;p>Red Nightmare is a 2d pixel game, although uses 3d skeletal animations aswell as the typical 2d frame-by-frame sprite animations (flipbooks). To do this, Topaz&amp;rsquo;s heavy-duty 3D animation renderer is used to render an animated model into an offscreen image, which is then pixelated and then superimposed onto the output image, every frame.&lt;/p>
+&lt;p>Its older prototypes lack these novel features, as they were written against older Topaz versions 1.0 (2018) and 3.6.1 (2022). The full version of Red Nightmare is being developed against Topaz 4.1.0. The current game-design document can be found &lt;a href="https://github.com/harrand/Red-Nightmare/blob/master/GDD.pdf">here&lt;/a>.&lt;/p>
 &lt;p>&lt;a href="https://github.com/Harrand/Red-Nightmare">
 &lt;img src="https://harrand.github.io/gh.svg" alt="Github Repository" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
 &lt;/a>
