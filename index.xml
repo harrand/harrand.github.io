@@ -133,18 +133,7 @@ Engine, 2015-Present, Language: C++&lt;/p>
 &lt;img src="https://harrand.github.io/red_nightmare.png" alt="Red Nightmare" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
 Topaz Game, 2018-Present, Language: C++&lt;/p>
 &lt;p>Red Nightmare is a high-fantasy roguelike with RPG elements. It initially served as a testbed for new Topaz features, only producing basic prototypes. In 2022 however, I began to develop it as a more serious game project rather than a subsidiary to an engine project.&lt;/p>
-&lt;p>Its older prototypes written against Topaz versions 1.0 (2018) and 3.6.1 (2022). The full version of Red Nightmare is being developed against Topaz 4.1.0.&lt;/p>
-&lt;h2 id="game-design-document">Game Design Document&lt;/h2>
-&lt;p>&amp;lt;embed
-src=&amp;ldquo;&lt;a href="https://github.com/harrand/Red-Nightmare/blob/master/GDD.pdf#toolbar=0&amp;amp;navpanes=0&amp;amp;scrollbar=0%22">https://github.com/harrand/Red-Nightmare/blob/master/GDD.pdf#toolbar=0&amp;amp;navpanes=0&amp;amp;scrollbar=0&amp;quot;&lt;/a>
-type=&amp;ldquo;application/pdf&amp;rdquo;
-frameBorder=&amp;ldquo;0&amp;rdquo;
-scrolling=&amp;ldquo;auto&amp;rdquo;
-height=&amp;ldquo;100%&amp;rdquo;
-width=&amp;ldquo;100%&amp;rdquo;&lt;/p>
-&lt;blockquote>
-&lt;!-- raw HTML omitted -->
-&lt;/blockquote>
+&lt;p>Its older prototypes written against Topaz versions 1.0 (2018) and 3.6.1 (2022). The full version of Red Nightmare is being developed against Topaz 4.1.0. The current game-design document can be found &lt;a href="https://github.com/harrand/Red-Nightmare/blob/master/GDD.pdf">here&lt;/a>.&lt;/p>
 &lt;p>&lt;a href="https://github.com/Harrand/Red-Nightmare">
 &lt;img src="https://harrand.github.io/gh.svg" alt="Github Repository" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
 &lt;/a>
