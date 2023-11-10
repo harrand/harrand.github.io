@@ -9,7 +9,7 @@ Engine, 2015-Present, Language: C++
 
 Topaz is a 3D graphics engine. It supports linux/windows and can be configured to use opengl/vulkan under-the-hood.
 
-As of writing, the most recent version is Topaz 3.5.
+The next version of Topaz is 4.1.0.
 
 [{{< image src="/gh.svg" alt="Github Repository" style="border-radius: 8px; width: 2%; display: inline;" >}}](https://github.com/Harrand/Topaz)
 [{{< image src="/yt.png" alt="YouTube Development Playlist" style="border-radius: 8px; width: 2%; display: inline;" >}}](https://www.youtube.com/playlist?list=PL6PSLdrGGe8I67_i6mNk8IUmOsP85Vhll)
@@ -17,13 +17,24 @@ As of writing, the most recent version is Topaz 3.5.
 
 ---
 
-# Red Nightmare 2
-{{< image src="/red_nightmare.png" alt="Red Nightmare 2" style="border-radius: 8px; width: 2%; display: inline;" >}}
-Topaz Game, 2022-Present, Language: C++
+# Red Nightmare
+{{< image src="/red_nightmare.png" alt="Red Nightmare" style="border-radius: 8px; width: 2%; display: inline;" >}}
+Topaz Game, 2018-Present, Language: C++
 
-Red Nightmare 2 is a complete rewrite of the original game, using Topaz 3.5, currently in development.
+Red Nightmare is a high-fantasy roguelike with RPG elements. It initially served as a testbed for new Topaz features, only producing basic prototypes. In 2022 however, I began to develop it as a more serious game project rather than a subsidiary to an engine project.
 
-The game is a 2D action roguelite. There will be multiple playable characters, but the player originally controls a sorceress named Akhara. You must navigate through the story levels, defeating monsters on the way using Akhara's fireballs. Alternatively, you can play procedural levels, which are randomly generated, and last forever until you die.
+Its older prototypes written against Topaz versions 1.0 (2018) and 3.6.1 (2022). The full version of Red Nightmare is being developed against Topaz 4.1.0.
+
+## Game Design Document
+
+{{< embed
+    src="https://github.com/harrand/Red-Nightmare/blob/master/GDD.pdf#toolbar=0&navpanes=0&scrollbar=0"
+    type="application/pdf"
+    frameBorder="0"
+    scrolling="auto"
+    height="100%"
+    width="100%"
+></embed> }}
 
 [{{< image src="/gh.svg" alt="Github Repository" style="border-radius: 8px; width: 2%; display: inline;" >}}](https://github.com/Harrand/Red-Nightmare)
 [{{< image src="/yt.png" alt="YouTube Development Playlist" style="border-radius: 8px; width: 2%; display: inline;" >}}](https://youtube.com/playlist?list=PL6PSLdrGGe8JU5bsKL4Kohhi7e5aFSzTu)
@@ -61,21 +72,6 @@ Library, 2018-2019, Language: C++
 Amethyst is a cross-platform basic networking library. It is very low-level, dealing only in sockets.
 
 [{{< image src="/gh.svg" alt="Github Repository" style="border-radius: 8px; width: 2%; display: inline;" >}}](https://github.com/Harrand/Amethyst)
-
----
-
-# Red Nightmare
-{{< image src="/red_nightmare.png" alt="Red Nightmare" style="border-radius: 8px; width: 2%; display: inline;" >}}
-Topaz Game, 2018, Language: C++
-
-Red Nightmare is an old sample game using Topaz 1.0. You play as a sorceress aswell as her magical elemental orb, but you are attacked by ghosts. You also have the power of telekinesis, which you can use to drag ghosts out of your way or into their doom.
-
-The orb has different effects depending on its current elemental type. The fiery orb deals massive damage, the frost orb slows nearby ghosts, and the void orb sucks in ghosts and consumes them, growing in size.
-
-After killing enough ghosts, a boss battle begins against Nightmare. Nightmare is a malevolent powerful ghost who can only be stopped with the combination of the orb and your telekinesis.
-
-[{{< image src="/gh.svg" alt="Github Repository" style="border-radius: 8px; width: 2%; display: inline;" >}}](https://github.com/Harrand/Red-Nightmare/tree/Topaz1.0)
-[{{< image src="/yt.png" alt="YouTube Development Playlist" style="border-radius: 8px; width: 2%; display: inline;" >}}](https://youtu.be/Ps6-L03zkuA)
 
 ---
 
