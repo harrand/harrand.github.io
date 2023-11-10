@@ -7,7 +7,14 @@ draft: false
 {{< image src="/tz.png" alt="Topaz" style="border-radius: 8px; width: 2%; display: inline;" >}}
 Engine, 2015-Present, Language: C++
 
-Topaz is a 3D graphics engine. It supports linux/windows and can be configured to use opengl/vulkan under-the-hood.
+Topaz is a 3D game engine, supported on Windows and Linux. Notable features include:
+- Rich, low-level graphics API, against either a Vulkan or OpenGL backend - all configured at compile-time.
+- Custom shader-language, called TZSL. A superset of GLSL specialised for Topaz. TZSL shaders compile cleanly down to GLSL (OpenGL), or SPIRV (Vulkan) without any modifications required.
+- Alternatively, a higher-level rendering API is also provided to save you from reinventing the wheel to do common high-level tasks, such as 3d skeletal animation.
+- Multi-threaded embedded Lua.
+- Low-latency job system to spread work across multiple threads.
+- GLTF model importing.
+- Ability to embed arbitrary text-files within built executables.
 
 The next version of Topaz is 4.1.0.
 
@@ -19,11 +26,15 @@ The next version of Topaz is 4.1.0.
 
 # Red Nightmare
 {{< image src="/red_nightmare.png" alt="Red Nightmare" style="border-radius: 8px; width: 2%; display: inline;" >}}
-Topaz Game, 2018-Present, Language: C++
+Topaz Game, 2018-Present, Language: C++, Lua
 
 Red Nightmare is a high-fantasy roguelike with RPG elements. It initially served as a testbed for new Topaz features, only producing basic prototypes. In 2022 however, I began to develop it as a more serious game project rather than a subsidiary to an engine project.
 
-Its older prototypes written against Topaz versions 1.0 (2018) and 3.6.1 (2022). The full version of Red Nightmare is being developed against Topaz 4.1.0. The current game-design document can be found [here](https://github.com/harrand/Red-Nightmare/blob/master/GDD.pdf).
+Red Nightmare's game logic is heavily driven by embedded Lua, rarely calling directly into Topaz aside from the heavy-duty features such as rendering.
+
+Red Nightmare is a 2d pixel game, although uses 3d skeletal animations aswell as the typical 2d frame-by-frame sprite animations (flipbooks). To do this, Topaz's heavy-duty 3D animation renderer is used to render an animated model into an offscreen image, which is then pixelated and then superimposed onto the output image, every frame.
+
+Its older prototypes lack these novel features, as they were written against older Topaz versions 1.0 (2018) and 3.6.1 (2022). The full version of Red Nightmare is being developed against Topaz 4.1.0. The current game-design document can be found [here](https://github.com/harrand/Red-Nightmare/blob/master/GDD.pdf).
 
 [{{< image src="/gh.svg" alt="Github Repository" style="border-radius: 8px; width: 2%; display: inline;" >}}](https://github.com/Harrand/Red-Nightmare)
 [{{< image src="/yt.png" alt="YouTube Development Playlist" style="border-radius: 8px; width: 2%; display: inline;" >}}](https://youtube.com/playlist?list=PL6PSLdrGGe8JU5bsKL4Kohhi7e5aFSzTu)
