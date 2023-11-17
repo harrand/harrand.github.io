@@ -3,6 +3,8 @@ title: "About Me"
 draft: false
 ---
 
+{{< image src="/me.jpg" alt="Picture of Harry" style="border-radius: 8px; width: 10%; display: inline;" >}}
+
 - Harrand is my pseudonym, but my real name is Harry.
 - I am a game engine programmer, in and outside of industry.
 	- Currently I work full-time on the [Cobra](https://www.frontier.co.uk/about/cobra-development-technology-tools) engine at Frontier Developments.
