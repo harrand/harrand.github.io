@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Harrand</title><link>https://harrand.github.io/</link><description>Recent content on Harrand</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://harrand.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://harrand.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://harrand.github.io/about/</guid><description>Harrand is my pseudonym, but my real name is Harry. I am a game engine programmer, in and outside of industry. Currently I work full-time on the Cobra engine at Frontier Developments. In my free-time, I&amp;rsquo;m working on two projects - my game engine, Topaz, and a 2D game using that engine, Red Nightmare Feel free to look through the Projects section above to see my older work. You can find my CV/resume here.</description><content>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Harrand</title><link>https://harrand.github.io/</link><description>Recent content on Harrand</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://harrand.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://harrand.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://harrand.github.io/about/</guid><description>Harrand is my pseudonym, but my real name is Harry. I am a game engine programmer, in and outside of industry. Currently I work full-time on the Cobra engine at Frontier Developments. In my free-time, I&amp;rsquo;m working on three projects - my compiler, psyc, my game engine, Topaz, and a 2D game using that engine, Red Nightmare Feel free to look through the Projects section above to see my older work.</description><content>
 &lt;img src="https://harrand.github.io/me.jpg" alt="Picture of Harry" class="left" style="border-radius: 8px; width: 10%; display: inline;" />
 &lt;ul>
 &lt;li>Harrand is my pseudonym, but my real name is Harry.&lt;/li>
 &lt;li>I am a game engine programmer, in and outside of industry.
 &lt;ul>
 &lt;li>Currently I work full-time on the &lt;a href="https://www.frontier.co.uk/about/cobra-development-technology-tools">Cobra&lt;/a> engine at Frontier Developments.&lt;/li>
-&lt;li>In my free-time, I&amp;rsquo;m working on two projects - my game engine, &lt;a href="https://github.com/harrand/Topaz">Topaz&lt;/a>, and a 2D game using that engine, &lt;a href="https://github.com/harrand/Red-Nightmare">Red Nightmare&lt;/a>&lt;/li>
+&lt;li>In my free-time, I&amp;rsquo;m working on three projects - my compiler, &lt;a href="https://github.com/harrand/psyc">psyc&lt;/a>, my game engine, &lt;a href="https://github.com/harrand/Topaz">Topaz&lt;/a>, and a 2D game using that engine, &lt;a href="https://github.com/harrand/Red-Nightmare">Red Nightmare&lt;/a>&lt;/li>
 &lt;li>Feel free to look through the Projects section above to see my older work.&lt;/li>
 &lt;/ul>
 &lt;/li>
@@ -21,12 +21,28 @@
 &lt;/a>&lt;/p></content></item><item><title>Blog</title><link>https://harrand.github.io/blog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://harrand.github.io/blog/</guid><description>2022 Under construction :&amp;gt;</description><content>&lt;h2 id="2022">2022&lt;/h2>
 &lt;ul>
 &lt;li>Under construction :&amp;gt;&lt;/li>
-&lt;/ul></content></item><item><title>Projects</title><link>https://harrand.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://harrand.github.io/projects/</guid><description>Topaz Engine, 2015-Present, Language: C++
-Topaz is a 3D game engine, supported on Windows and Linux. Notable features include:
-Rich, low-level graphics API, against either a Vulkan or OpenGL backend - all configured at compile-time. Custom shader-language, called TZSL. A superset of GLSL specialised for Topaz. TZSL shaders compile cleanly down to GLSL (OpenGL), or SPIRV (Vulkan) without any modifications required. Alternatively, a higher-level rendering API is also provided to save you from reinventing the wheel to do common high-level tasks, such as 3d skeletal animation.</description><content>&lt;h1 id="topaz">Topaz&lt;/h1>
+&lt;/ul></content></item><item><title>Projects</title><link>https://harrand.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://harrand.github.io/projects/</guid><description>Psyc Compiler, 2024-Present, Language: C++, LLVM-IR
+Psyc is a small compiler for a toy programming language, called Psy. Both the language and compiler are very early in development.
+Psy is a statically-typed systems programming language, with a focus on the following:
+Compiler simplicity. Fast compile times. Competitive runtime performance. Internal build config/flags within source code. No build scripts; your source code directly gives the compiler all the information it needs. Psy is what you get if you take C, gave it the syntax of cppfront, and then sprinkled some functional programming features for ease-of-use.</description><content>&lt;h1 id="psyc">Psyc&lt;/h1>
+&lt;p>Compiler, 2024-Present, Language: C++, LLVM-IR&lt;/p>
+&lt;p>Psyc is a small compiler for a toy programming language, called Psy. Both the language and compiler are very early in development.&lt;/p>
+&lt;p>Psy is a statically-typed systems programming language, with a focus on the following:&lt;/p>
+&lt;ul>
+&lt;li>Compiler simplicity.&lt;/li>
+&lt;li>Fast compile times.&lt;/li>
+&lt;li>Competitive runtime performance.&lt;/li>
+&lt;li>Internal build config/flags within source code. No build scripts; your source code directly gives the compiler all the information it needs.&lt;/li>
+&lt;/ul>
+&lt;p>Psy is what you get if you take C, gave it the syntax of &lt;a href="https://github.com/hsutter/cppfront">cppfront&lt;/a>, and then sprinkled some functional programming features for ease-of-use. Unlike C++, it doesn&amp;rsquo;t take an eternity to compile your code either.&lt;/p>
+&lt;p>&lt;a href="https://github.com/Harrand/psyc">
+&lt;img src="https://harrand.github.io/gh.svg" alt="Github Repository" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
+&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h1 id="topaz">Topaz&lt;/h1>
 &lt;p>
 &lt;img src="https://harrand.github.io/tz.png" alt="Topaz" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
-Engine, 2015-Present, Language: C++&lt;/p>
+Engine, 2015-2024, Language: C++&lt;/p>
 &lt;p>Topaz is a 3D game engine, supported on Windows and Linux. Notable features include:&lt;/p>
 &lt;ul>
 &lt;li>Rich, low-level graphics API, against either a Vulkan or OpenGL backend - all configured at compile-time.&lt;/li>
@@ -37,7 +53,7 @@ Engine, 2015-Present, Language: C++&lt;/p>
 &lt;li>GLTF model importing.&lt;/li>
 &lt;li>Ability to embed arbitrary text-files within built executables.&lt;/li>
 &lt;/ul>
-&lt;p>The next version of Topaz is 4.1.0.&lt;/p>
+&lt;p>The current version of Topaz is 4.2.0. More versions are planned, although development on the engine is currently only done as-needed by Red Nightmare until it ships.&lt;/p>
 &lt;p>&lt;a href="https://github.com/Harrand/Topaz">
 &lt;img src="https://harrand.github.io/gh.svg" alt="Github Repository" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
 &lt;/a>
@@ -51,11 +67,11 @@ Engine, 2015-Present, Language: C++&lt;/p>
 &lt;h1 id="red-nightmare">Red Nightmare&lt;/h1>
 &lt;p>
 &lt;img src="https://harrand.github.io/red_nightmare.png" alt="Red Nightmare" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
-Topaz Game, 2018-Present, Language: C++, Lua&lt;/p>
+Topaz Game, 2022-2024, Language: C++, Lua&lt;/p>
 &lt;p>Red Nightmare is a high-fantasy roguelike with RPG elements. It initially served as a testbed for new Topaz features, only producing basic prototypes. In 2022 however, I began to develop it as a more serious game project rather than a subsidiary to an engine project.&lt;/p>
 &lt;p>Red Nightmare&amp;rsquo;s game logic is heavily driven by embedded Lua, rarely calling directly into Topaz aside from the heavy-duty features such as rendering.&lt;/p>
 &lt;p>Red Nightmare is a 2d pixel game, although uses 3d skeletal animations aswell as the typical 2d frame-by-frame sprite animations (flipbooks). To do this, Topaz&amp;rsquo;s heavy-duty 3D animation renderer is used to render an animated model into an offscreen image, which is then pixelated and then superimposed onto the output image, every frame.&lt;/p>
-&lt;p>Its older prototypes lack these novel features, as they were written against older Topaz versions 1.0 (2018) and 3.6.1 (2022). The full version of Red Nightmare is being developed against Topaz 4.1.0. The current game-design document can be found &lt;a href="https://github.com/harrand/Red-Nightmare/blob/master/GDD.pdf">here&lt;/a>.&lt;/p>
+&lt;p>Its older prototypes lack these novel features, as they were written against older Topaz versions 1.0 (2018) and 3.6.1 (2022). The full version of Red Nightmare is being developed against Topaz 4.2.0. The current game-design document can be found &lt;a href="https://github.com/harrand/Red-Nightmare/blob/master/GDD.pdf">here&lt;/a>.&lt;/p>
 &lt;p>&lt;a href="https://github.com/Harrand/Red-Nightmare">
 &lt;img src="https://harrand.github.io/gh.svg" alt="Github Repository" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
 &lt;/a>
