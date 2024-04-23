@@ -3,9 +3,26 @@ title: "Projects"
 draft: false
 ---
 
+# Psyc
+Compiler, 2024-Present, Language: C++, LLVM-IR
+
+Psyc is a small compiler for a toy programming language, called Psy. Both the language and compiler are very early in development.
+
+Psy is a statically-typed systems programming language, with a focus on the following:
+- Compiler simplicity.
+- Fast compile times.
+- Competitive runtime performance.
+- Internal build config/flags within source code. No build scripts; your source code directly gives the compiler all the information it needs.
+
+Psy is what you get if you take C, gave it the syntax of [cppfront](https://github.com/hsutter/cppfront), and then sprinkled some functional programming features for ease-of-use. Unlike C++, it doesn't take an eternity to compile your code either.
+
+[{{< image src="/gh.svg" alt="Github Repository" style="border-radius: 8px; width: 2%; display: inline;" >}}](https://github.com/Harrand/psyc)
+
+---
+
 # Topaz
 {{< image src="/tz.png" alt="Topaz" style="border-radius: 8px; width: 2%; display: inline;" >}}
-Engine, 2015-Present, Language: C++
+Engine, 2015-2024, Language: C++
 
 Topaz is a 3D game engine, supported on Windows and Linux. Notable features include:
 - Rich, low-level graphics API, against either a Vulkan or OpenGL backend - all configured at compile-time.
@@ -16,7 +33,7 @@ Topaz is a 3D game engine, supported on Windows and Linux. Notable features incl
 - GLTF model importing.
 - Ability to embed arbitrary text-files within built executables.
 
-The next version of Topaz is 4.1.0.
+The current version of Topaz is 4.2.0. More versions are planned, although development on the engine is currently only done as-needed by Red Nightmare until it ships.
 
 [{{< image src="/gh.svg" alt="Github Repository" style="border-radius: 8px; width: 2%; display: inline;" >}}](https://github.com/Harrand/Topaz)
 [{{< image src="/yt.png" alt="YouTube Development Playlist" style="border-radius: 8px; width: 2%; display: inline;" >}}](https://www.youtube.com/playlist?list=PL6PSLdrGGe8I67_i6mNk8IUmOsP85Vhll)
@@ -26,7 +43,7 @@ The next version of Topaz is 4.1.0.
 
 # Red Nightmare
 {{< image src="/red_nightmare.png" alt="Red Nightmare" style="border-radius: 8px; width: 2%; display: inline;" >}}
-Topaz Game, 2018-Present, Language: C++, Lua
+Topaz Game, 2022-2024, Language: C++, Lua
 
 Red Nightmare is a high-fantasy roguelike with RPG elements. It initially served as a testbed for new Topaz features, only producing basic prototypes. In 2022 however, I began to develop it as a more serious game project rather than a subsidiary to an engine project.
 
@@ -34,7 +51,7 @@ Red Nightmare's game logic is heavily driven by embedded Lua, rarely calling dir
 
 Red Nightmare is a 2d pixel game, although uses 3d skeletal animations aswell as the typical 2d frame-by-frame sprite animations (flipbooks). To do this, Topaz's heavy-duty 3D animation renderer is used to render an animated model into an offscreen image, which is then pixelated and then superimposed onto the output image, every frame.
 
-Its older prototypes lack these novel features, as they were written against older Topaz versions 1.0 (2018) and 3.6.1 (2022). The full version of Red Nightmare is being developed against Topaz 4.1.0. The current game-design document can be found [here](https://github.com/harrand/Red-Nightmare/blob/master/GDD.pdf).
+Its older prototypes lack these novel features, as they were written against older Topaz versions 1.0 (2018) and 3.6.1 (2022). The full version of Red Nightmare is being developed against Topaz 4.2.0. The current game-design document can be found [here](https://github.com/harrand/Red-Nightmare/blob/master/GDD.pdf).
 
 [{{< image src="/gh.svg" alt="Github Repository" style="border-radius: 8px; width: 2%; display: inline;" >}}](https://github.com/Harrand/Red-Nightmare)
 [{{< image src="/yt.png" alt="YouTube Development Playlist" style="border-radius: 8px; width: 2%; display: inline;" >}}](https://youtube.com/playlist?list=PL6PSLdrGGe8JU5bsKL4Kohhi7e5aFSzTu)
