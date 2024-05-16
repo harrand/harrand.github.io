@@ -4,7 +4,7 @@ draft: false
 ---
 
 # Psyc
-{{< image src="/psy.png" alt="Topaz" style="border-radius: 8px; width: 0.5%; display: inline;" >}}
+{{< image src="/psy.png" alt="Psy" style="border-radius: 8px; width: 0.5%; display: inline;" >}}
 Compiler, 2024-Present, Language: C++, LLVM-IR
 
 Psyc is a small compiler for a toy programming language, called Psy. Both the language and compiler are very early in development.
