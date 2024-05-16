@@ -25,7 +25,9 @@
 Psyc is a small compiler for a toy programming language, called Psy. Both the language and compiler are very early in development.
 Psy is a statically-typed systems programming language, with a focus on the following:
 Compiler simplicity. Fast compile times. Competitive runtime performance. Internal build config/flags within source code. No build scripts; your source code directly gives the compiler all the information it needs. Psy is what you get if you take C, gave it the syntax of cppfront, and then sprinkled some functional programming features for ease-of-use.</description><content>&lt;h1 id="psyc">Psyc&lt;/h1>
-&lt;p>Compiler, 2024-Present, Language: C++, LLVM-IR&lt;/p>
+&lt;p>
+&lt;img src="https://harrand.github.io/psy.png" alt="Topaz" class="left" style="border-radius: 8px; width: 0.5%; display: inline;" />
+Compiler, 2024-Present, Language: C++, LLVM-IR&lt;/p>
 &lt;p>Psyc is a small compiler for a toy programming language, called Psy. Both the language and compiler are very early in development.&lt;/p>
 &lt;p>Psy is a statically-typed systems programming language, with a focus on the following:&lt;/p>
 &lt;ul>
