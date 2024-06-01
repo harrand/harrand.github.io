@@ -21,14 +21,28 @@
 &lt;/a>&lt;/p></content></item><item><title>Blog</title><link>https://harrand.github.io/blog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://harrand.github.io/blog/</guid><description>2022 Under construction :&amp;gt;</description><content>&lt;h2 id="2022">2022&lt;/h2>
 &lt;ul>
 &lt;li>Under construction :&amp;gt;&lt;/li>
-&lt;/ul></content></item><item><title>Projects</title><link>https://harrand.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://harrand.github.io/projects/</guid><description>Psyc Compiler, 2024-Present, Language: C++, LLVM-IR
-Psyc is a small compiler for a toy programming language, called Psy. Both the language and compiler are very early in development.
-Psy is a statically-typed systems programming language, with a focus on the following:
-Compiler simplicity. Fast compile times. Competitive runtime performance. Internal build config/flags within source code. No build scripts; your source code directly gives the compiler all the information it needs. Psy is what you get if you take C, gave it the syntax of cppfront, and then sprinkled some functional programming features for ease-of-use.</description><content>&lt;h1 id="psyc">Psyc&lt;/h1>
+&lt;/ul></content></item><item><title>Projects</title><link>https://harrand.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://harrand.github.io/projects/</guid><description>Red Nightmare Topaz Game, 2022-Present, Language: C++, Lua
+Red Nightmare is a high-fantasy roguelike with RPG elements. It initially served as a testbed for new Topaz features, only producing basic prototypes. In 2022 however, I began to develop it as a more serious game project rather than a subsidiary to an engine project.
+Red Nightmare&amp;rsquo;s game logic is heavily driven by embedded Lua, rarely calling directly into Topaz aside from the heavy-duty features such as rendering.</description><content>&lt;h1 id="red-nightmare">Red Nightmare&lt;/h1>
+&lt;p>
+&lt;img src="https://harrand.github.io/red_nightmare.png" alt="Red Nightmare" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
+Topaz Game, 2022-Present, Language: C++, Lua&lt;/p>
+&lt;p>Red Nightmare is a high-fantasy roguelike with RPG elements. It initially served as a testbed for new Topaz features, only producing basic prototypes. In 2022 however, I began to develop it as a more serious game project rather than a subsidiary to an engine project.&lt;/p>
+&lt;p>Red Nightmare&amp;rsquo;s game logic is heavily driven by embedded Lua, rarely calling directly into Topaz aside from the heavy-duty features such as rendering.&lt;/p>
+&lt;p>Red Nightmare is a 2d pixel game, although uses 3d skeletal animations aswell as the typical 2d frame-by-frame sprite animations (flipbooks). To do this, Topaz&amp;rsquo;s heavy-duty 3D animation renderer is used to render an animated model into an offscreen image, which is then pixelated and then superimposed onto the output image, every frame.&lt;/p>
+&lt;p>Its older prototypes lack these novel features, as they were written against older Topaz versions 1.0 (2018) and 3.6.1 (2022). The full version of Red Nightmare is being developed against Topaz 4.2.0. The current game-design document can be found &lt;a href="https://github.com/harrand/Red-Nightmare/blob/master/GDD.pdf">here&lt;/a>.&lt;/p>
+&lt;p>&lt;a href="https://github.com/Harrand/Red-Nightmare">
+&lt;img src="https://harrand.github.io/gh.svg" alt="Github Repository" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
+&lt;/a>
+&lt;a href="https://youtube.com/playlist?list=PL6PSLdrGGe8JU5bsKL4Kohhi7e5aFSzTu">
+&lt;img src="https://harrand.github.io/yt.png" alt="YouTube Development Playlist" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
+&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h1 id="psyc">Psyc&lt;/h1>
 &lt;p>
 &lt;img src="https://harrand.github.io/psy.png" alt="Psy" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
-Compiler, 2024-Present, Language: C++, LLVM-IR&lt;/p>
-&lt;p>Psyc is a small compiler for a toy programming language, called Psy. Both the language and compiler are very early in development.&lt;/p>
+Compiler, 2024, Language: C++, LLVM-IR&lt;/p>
+&lt;p>Psyc is a small compiler for a toy programming language, called Psy.&lt;/p>
 &lt;p>Psy is a statically-typed systems programming language, with a focus on the following:&lt;/p>
 &lt;ul>
 &lt;li>Compiler simplicity.&lt;/li>
@@ -64,21 +78,6 @@ Engine, 2015-2024, Language: C++&lt;/p>
 &lt;/a>
 &lt;a href="https://harrand.github.io/Topaz/">
 &lt;img src="https://harrand.github.io/doc.png" alt="Documentation" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
-&lt;/a>&lt;/p>
-&lt;hr>
-&lt;h1 id="red-nightmare">Red Nightmare&lt;/h1>
-&lt;p>
-&lt;img src="https://harrand.github.io/red_nightmare.png" alt="Red Nightmare" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
-Topaz Game, 2022-2024, Language: C++, Lua&lt;/p>
-&lt;p>Red Nightmare is a high-fantasy roguelike with RPG elements. It initially served as a testbed for new Topaz features, only producing basic prototypes. In 2022 however, I began to develop it as a more serious game project rather than a subsidiary to an engine project.&lt;/p>
-&lt;p>Red Nightmare&amp;rsquo;s game logic is heavily driven by embedded Lua, rarely calling directly into Topaz aside from the heavy-duty features such as rendering.&lt;/p>
-&lt;p>Red Nightmare is a 2d pixel game, although uses 3d skeletal animations aswell as the typical 2d frame-by-frame sprite animations (flipbooks). To do this, Topaz&amp;rsquo;s heavy-duty 3D animation renderer is used to render an animated model into an offscreen image, which is then pixelated and then superimposed onto the output image, every frame.&lt;/p>
-&lt;p>Its older prototypes lack these novel features, as they were written against older Topaz versions 1.0 (2018) and 3.6.1 (2022). The full version of Red Nightmare is being developed against Topaz 4.2.0. The current game-design document can be found &lt;a href="https://github.com/harrand/Red-Nightmare/blob/master/GDD.pdf">here&lt;/a>.&lt;/p>
-&lt;p>&lt;a href="https://github.com/Harrand/Red-Nightmare">
-&lt;img src="https://harrand.github.io/gh.svg" alt="Github Repository" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
-&lt;/a>
-&lt;a href="https://youtube.com/playlist?list=PL6PSLdrGGe8JU5bsKL4Kohhi7e5aFSzTu">
-&lt;img src="https://harrand.github.io/yt.png" alt="YouTube Development Playlist" class="left" style="border-radius: 8px; width: 2%; display: inline;" />
 &lt;/a>&lt;/p>
 &lt;hr>
 &lt;h1 id="parched">Parched&lt;/h1>
